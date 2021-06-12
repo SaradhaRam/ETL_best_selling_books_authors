@@ -2,6 +2,7 @@
 
 Team members - Cy Miller, Francis Duffy, Gorkem Varol and Saradha Ramasamy
 Project Title - Amazon Best selling books
+
 Project Proposal:
 
 We will be using data of top book sales on Amazon from kaggle.com as well as from Amazon itself, and also The New York Times bestsellers from dataworld.com. We will use pgadmin to create the tables, load the data, and transform the data. Web scraping to get data, and pandas for cleaning. 
