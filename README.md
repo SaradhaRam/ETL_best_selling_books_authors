@@ -1,6 +1,6 @@
 # project_2 - Amazon Best selling books
 
-Team members - Cy Miller, Francis Duffy, Gorkem Varol and Saradha Ramasamy
+Team members - Cy Miller, Francis Duffy, Gorkem Varol, Mohamed Ismael, and Saradha Ramasamy
 Project Title - Amazon Best selling books
 
 Project Proposal:
