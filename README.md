@@ -1,4 +1,4 @@
-# project_2 - Amazon Best selling books
+# ETL Project - Amazon Best selling books
 
 Team members - Cy Miller, Francis Duffy, Gorkem Varol, Mohamed Ismael, and Saradha Ramasamy
 Project Title - Amazon Best selling books
